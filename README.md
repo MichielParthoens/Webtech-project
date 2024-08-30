@@ -54,7 +54,7 @@ With my project, I am using the **Pynq-Z2** as hardware for the Linux server. Th
 
 ## Setting Up the Webserver
 
-For setting up the Caddy web server, two files need to be created: a `Caddyfile` and an `info.php` file. These are the standard names for the used files, and they also have standard directories. If you want to change these names or directories, you can find more information on the [Caddy website](https://caddyserver.com/).
+For setting up the Caddy web server, four files need to be created: a `Caddyfile`,`info.php`,'visualize.php' and 'dump.php' . Caddyfile and info.php are the standard files, and they also have standard directories. If you want to change these names or directories, you can find more information on the [Caddy website](https://caddyserver.com/).
 
 ## Setting Up the Database
 
